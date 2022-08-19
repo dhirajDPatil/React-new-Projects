@@ -1,0 +1,19 @@
+*{
+    background-color: lightblue;
+}
+
+.App{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    border: 2px solid rgb(13, 0, 255);
+    margin-top: 20px;
+    width: 600px;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
